@@ -1,0 +1,32 @@
+body{
+    font-family: Poppins;
+    margin: 0px;
+}
+
+.firstsection{
+    display:flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+
+    }
+    
+div{
+    width: 40%;
+    margin-left: 5%;
+}
+.button{
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 15%;
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    color:white;
+    font-weight: 700;
+    
+}
+h1{
+    font-size: 40px;
+}
